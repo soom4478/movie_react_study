@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://https://soom4478.github.io/movie_react_study/"
+  "homepage": "https://https://soom4478.github.io/movie_react_study/",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
