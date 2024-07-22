@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "//soom4478.github.io/movie_react_study/static/js/main.45799d88.js",
+    "main.css": "//soom4478.github.io/movie_react_study/static/css/main.5baf6d26.css",
+    "main.js": "//soom4478.github.io/movie_react_study/static/js/main.5075604c.js",
     "index.html": "//soom4478.github.io/movie_react_study/index.html",
-    "main.45799d88.js.map": "//soom4478.github.io/movie_react_study/static/js/main.45799d88.js.map"
+    "main.5baf6d26.css.map": "//soom4478.github.io/movie_react_study/static/css/main.5baf6d26.css.map",
+    "main.5075604c.js.map": "//soom4478.github.io/movie_react_study/static/js/main.5075604c.js.map"
   },
   "entrypoints": [
-    "static/js/main.45799d88.js"
+    "static/css/main.5baf6d26.css",
+    "static/js/main.5075604c.js"
   ]
 }
